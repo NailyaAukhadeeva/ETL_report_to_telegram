@@ -22,7 +22,7 @@ def ch_get_df(query='Select 1', host='https://clickhouse.lab.karpov.courses', us
 
 # параметры Бота
 chat_id = -867652742
-my_token = '6033778525:AAFYv2EFD_h6QUiZFFpZfqj1HwUVfe0qtmM'
+my_token = ''
 bot = telegram.Bot(token=my_token)
 
 # дата расчета метрик отчета
